@@ -1,4 +1,4 @@
-package homework;
+package com.homework;
 
 /**
  * The {@code LatinSquare} class is able to build and display a Latin Square.
@@ -17,7 +17,7 @@ public class LatinSquare {
     /**
      * Constructs a Latin Square with dimensions specified by the {@code squareLen} argument.
      *
-     * @param squareLen The length of each square side.
+     * @param squareLen The length of each square side
      */
     public LatinSquare(int squareLen) {
         this.squareLen = squareLen;
@@ -69,8 +69,8 @@ public class LatinSquare {
     /**
      * Concatenates all elements from the row given by the argument {@code row}.
      *
-     * @param row The row to concatenate.
-     * @return A {@code StringBuilder} object representation of the result.
+     * @param row The row to concatenate
+     * @return A StringBuilder object representation of the result
      */
     StringBuilder concatenateRow(int row) {
         StringBuilder rowConcat = new StringBuilder();
@@ -83,8 +83,8 @@ public class LatinSquare {
     /**
      * Concatenates all elements from the column given by the argument {@code col}.
      *
-     * @param col The row to concatenate.
-     * @return A {@code StringBuilder} object representation of the result.
+     * @param col The column to concatenate
+     * @return A {@code StringBuilder} object representation of the result
      */
     StringBuilder concatenateColumn(int col) {
         StringBuilder colConcat = new StringBuilder();

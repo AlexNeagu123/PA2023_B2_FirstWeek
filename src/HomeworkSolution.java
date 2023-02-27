@@ -1,4 +1,4 @@
-import homework.LatinSquare;
+import com.homework.LatinSquare;
 
 /**
  *  Homework Implementation from Laboratory 1.

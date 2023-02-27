@@ -1,6 +1,21 @@
-import bonus.CyclicGraphSolver;
-import bonus.RegularGraphSolver;
+import com.bonus.CyclicGraphSolver;
+import com.bonus.RegularGraphSolver;
 
+/**
+ *  Bonus Implementation from Laboratory 1.
+ *  <p>
+ *  One or two non-negative integers are expected from the command line.
+ *  <p>
+ *  Several validations are made on the arguments received from the command line.
+ *  <p>
+ *  If the arguments received violates the restrictions, an {@code IllegalArgumentException} is thrown.
+ *  <p>
+ *  If only one argument is passed from the command line, the first bullet is solved.
+ *  <p>
+ *  If two arguments are passed from the command line, the second bullet is solved.
+ *
+ * @author alexneagu
+ */
 public class BonusSolution {
     public static void main(String[] args) {
         try {
@@ -14,10 +29,10 @@ public class BonusSolution {
             }
 
             if (args.length == 1) {
-                // only one argument passed => solve the first part
+                // only one argument passed => solve the first bullet
                 CyclicGraphSolver.run(nodeNr);
             } else {
-                // two arguments passed => solve the second part
+                // two arguments passed => solve the second bullet
                 int kIndex = Integer.parseInt(args[1]);
                 if (kIndex < 0) {
                     throw new IllegalArgumentException("The second argument should be a non-negative integer!");

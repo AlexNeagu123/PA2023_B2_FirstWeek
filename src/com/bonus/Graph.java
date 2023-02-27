@@ -1,9 +1,22 @@
-package bonus;
+package com.bonus;
+
+/**
+ * The Graph class provides a skeletal implementation of the <tt>RegularGraph</tt> and <tt>CyclicGraph</tt> classes.
+ * <p>
+ * Important components in a graph such as the adjacency matrix and the number of nodes are stored in this class.
+ *
+ * @author alexneagu
+ */
 
 public class Graph {
     protected int[][] adjMatrix;
     protected int nodeNr;
 
+    /**
+     * Constructs a graph with {@code nodeNr} nodes and no edges.
+     *
+     * @param nodeNr The number of nodes in the graph
+     */
     public Graph(int nodeNr) {
         this.nodeNr = nodeNr;
         this.adjMatrix = new int[nodeNr][nodeNr];
@@ -13,6 +26,9 @@ public class Graph {
         return adjMatrix;
     }
 
+    /**
+     * The adjacency matrix is displayed on the screen
+     */
     public void printAdjMatrix() {
         System.out.println("The graph has been built and has the following adjacency matrix");
         for (int row = 0; row < nodeNr; ++row) {
