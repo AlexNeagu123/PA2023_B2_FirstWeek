@@ -1,5 +1,5 @@
-import Bonus.CyclicGraphSolver;
-import Bonus.RegularGraphSolver;
+import bonus.CyclicGraphSolver;
+import bonus.RegularGraphSolver;
 
 public class BonusSolution {
     public static void main(String[] args) {

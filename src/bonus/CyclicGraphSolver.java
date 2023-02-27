@@ -1,4 +1,4 @@
-package Bonus;
+package bonus;
 
 public class CyclicGraphSolver {
     public static void run(int nodeNr) {

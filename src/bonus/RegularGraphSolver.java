@@ -1,4 +1,4 @@
-package Bonus;
+package bonus;
 
 public class RegularGraphSolver {
     public static void run(int nodeNr, int kIndex) {

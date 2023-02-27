@@ -1,6 +1,4 @@
-package Bonus;
-
-import com.sun.javaws.exceptions.InvalidArgumentException;
+package bonus;
 
 public class RegularGraph extends Graph {
     public RegularGraph(int nodeNr, int kIndex) throws IllegalArgumentException {

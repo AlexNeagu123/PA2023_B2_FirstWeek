@@ -1,4 +1,4 @@
-package Bonus;
+package bonus;
 
 public class CyclicGraph extends Graph {
     public CyclicGraph(int nodeNr) {

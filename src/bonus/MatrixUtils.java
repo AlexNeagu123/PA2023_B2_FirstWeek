@@ -1,4 +1,4 @@
-package Bonus;
+package bonus;
 
 public class MatrixUtils {
     public static int[][] multiply(int[][] A, int[][] B) {
