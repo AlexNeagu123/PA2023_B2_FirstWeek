@@ -40,6 +40,6 @@ _:card_index_dividers: src/com/lab2/compulsory_
 
 :heavy_check_mark: Road Class: **:file_folder: src/com/lab2/compulsory/Road.java**
 
-:heavy_check_mark: Creating objects and printing them on stdout: **:file_folder: src/com/lab2/compulsory/Main.java**
+:blue_square: Creating objects and printing them on stdout: **:file_folder: src/com/lab2/compulsory/Main.java**
 
   
