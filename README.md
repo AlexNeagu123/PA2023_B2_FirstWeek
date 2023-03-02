@@ -37,11 +37,10 @@ _:card_index_dividers: src/com/lab1/bonus_
 
 ### Compulsory Part 
 _:card_index_dividers: src/com/lab2/compulsory_
-  
-:heavy_check_mark: Location Class: **:file_folder: src/com/lab2/compulsory/Location.java**
-
-:heavy_check_mark: Road Class: **:file_folder: src/com/lab2/compulsory/Road.java**
 
 :blue_square: Creating objects and printing them on stdout: **:file_folder: src/com/lab2/compulsory/Main.java**
 
+:heavy_check_mark: Location Class: **:file_folder: src/com/lab2/compulsory/Location.java**
+
+:heavy_check_mark: Road Class: **:file_folder: src/com/lab2/compulsory/Road.java**
   
