@@ -1,5 +1,7 @@
 # Advanced Programming 2023. First and Second Laboratories.
 
+:adult: **Alexandru Neagu** from 2B2 (transferred from 2A6).
+
 This repository contains solutions for:
 
 **First Laboratory**
