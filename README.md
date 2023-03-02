@@ -46,4 +46,5 @@ _:card_index_dividers: src/com/lab2/compulsory_
 :heavy_check_mark: Location Class: **src/com/lab2/compulsory/Location.java**
 
 :heavy_check_mark: Road Class: **src/com/lab2/compulsory/Road.java**
-  
+
+### Homework and Bonus parts will be presented next week...
