@@ -2,10 +2,12 @@
 
 This repository contains solutions for:
   * First Laboratory
-    * **Homework** - **all bulets** completed :white_check_mark:
-    * **Bonus** - **all bullets** completed :white_check_mark:
+    * :white_check_mark: **Homework** - **all bulets** completed
+    
+    * :white_check_mark: **Bonus** - **all bullets** completed
+  
   * Second Laboratory
-    * **Compulsory** - **all bullets** completed :white_check_mark:
+    * :white_check_mark: **Compulsory** - **all bullets** completed
     
 ## First Laboratory
 
