@@ -33,9 +33,9 @@ public class Main {
         System.out.println(secondAirport);
 
         try {
-            Road firstRoad = new Road(RoadType.HIGHWAY, 250, firstCity, secondCity);
+            Road firstRoad = new Road(RoadType.HIGHWAY, 250, firstCity, secondCity); // should be created
             System.out.println(firstRoad);
-            Road secondRoad = new Road(RoadType.COUNTRY, 50, 50, firstCity, firstAirport);
+            Road secondRoad = new Road(RoadType.COUNTRY, 50, 50, firstCity, firstAirport); // should be created
             System.out.println(secondRoad);
             Road thirdRoad = new Road(RoadType.COUNTRY, 10, thirdCity, secondCity); // should throw exception
             System.out.println(thirdRoad);

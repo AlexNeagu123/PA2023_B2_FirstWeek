@@ -18,6 +18,7 @@ public class RegularGraphSolver {
     public static void run(int nodeNr, int kIndex) {
         try {
             RegularGraph regularGraph = new RegularGraph(nodeNr, kIndex);
+            System.out.printf("A %d-regular graph with %d nodes has been built and has the following adjacency matrix\n", kIndex, nodeNr);
             regularGraph.printAdjMatrix();
         } catch (IllegalArgumentException exception) {
             System.out.println(exception.getMessage());

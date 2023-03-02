@@ -30,7 +30,6 @@ public class Graph {
      * The adjacency matrix is displayed on the screen
      */
     public void printAdjMatrix() {
-        System.out.println("The graph has been built and has the following adjacency matrix");
         for (int row = 0; row < nodeNr; ++row) {
             for (int col = 0; col < nodeNr; ++col) {
                 System.out.printf("%d ", adjMatrix[row][col]);
