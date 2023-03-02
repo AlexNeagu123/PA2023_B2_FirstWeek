@@ -1,4 +1,4 @@
-# First and Second Laboratories. Advanced Programming 2023.
+# Advanced Programming 2023. First and Second Laboratories.
 
 This repository contains solutions for:
 
