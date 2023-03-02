@@ -16,7 +16,7 @@ _:card_index_dividers: src/com/lab1/homework_
 
 :blue_square: Argument validation and application launch: **:file_folder: src/com/lab1/homework/Main.java** 
 
-:heavy_check_mark: Latin Square construction and methods that displays it on the screen: **:file_folder: src/com/lab1/homework/LatinSquare.java**
+:heavy_check_mark: Latin Square construction and displaying on the screen: **:file_folder: src/com/lab1/homework/LatinSquare.java**
 
 ### Bonus Part
 _:card_index_dividers: src/com/lab1/bonus_
