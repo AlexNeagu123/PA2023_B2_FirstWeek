@@ -1,22 +1,21 @@
-import com.bonus.CyclicGraphSolver;
-import com.bonus.RegularGraphSolver;
+package com.lab1.bonus;
 
 /**
- *  Bonus Implementation from Laboratory 1.
- *  <p>
- *  One or two non-negative integers are expected from the command line.
- *  <p>
- *  Several validations are made on the arguments received from the command line.
- *  <p>
- *  If the arguments received violates the restrictions, an {@code IllegalArgumentException} is thrown.
- *  <p>
- *  If only one argument is passed from the command line, the first bullet is solved.
- *  <p>
- *  If two arguments are passed from the command line, the second bullet is solved.
+ * Bonus Implementation from Laboratory 1.
+ * <p>
+ * One or two non-negative integers are expected from the command line.
+ * <p>
+ * Several validations are made on the arguments received from the command line.
+ * <p>
+ * If the arguments received violates the restrictions, an {@code IllegalArgumentException} is thrown.
+ * <p>
+ * If only one argument is passed from the command line, the first bullet is solved.
+ * <p>
+ * If two arguments are passed from the command line, the second bullet is solved.
  *
  * @author alexneagu
  */
-public class BonusSolution {
+public class Main {
     public static void main(String[] args) {
         try {
             if (args.length != 1 && args.length != 2) {

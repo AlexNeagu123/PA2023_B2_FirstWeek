@@ -1,4 +1,4 @@
-package com.bonus;
+package com.lab1.bonus;
 
 /**
  * The {@code CyclicGraph} class is able to build a cycle graph.

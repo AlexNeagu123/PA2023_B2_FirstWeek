@@ -1,4 +1,4 @@
-package com.bonus;
+package com.lab1.bonus;
 
 /**
  * The {@code MatrixUtils} class has useful static methods for multiplying two matrices and

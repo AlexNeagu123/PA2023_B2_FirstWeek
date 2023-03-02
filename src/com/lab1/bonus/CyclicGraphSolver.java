@@ -1,4 +1,4 @@
-package com.bonus;
+package com.lab1.bonus;
 
 /**
  * A class that contains the solution for the first bullet.

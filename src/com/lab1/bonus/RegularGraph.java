@@ -1,4 +1,4 @@
-package com.bonus;
+package com.lab1.bonus;
 
 /**
  * The {@code RegularGraph} class is able to build a regular graph.

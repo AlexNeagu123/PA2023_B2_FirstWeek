@@ -1,4 +1,4 @@
-package com.homework;
+package com.lab1.homework;
 
 /**
  * The {@code LatinSquare} class is able to build and display a Latin Square.

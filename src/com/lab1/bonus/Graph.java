@@ -1,4 +1,4 @@
-package com.bonus;
+package com.lab1.bonus;
 
 /**
  * The Graph class provides a skeletal implementation of the <tt>RegularGraph</tt> and <tt>CyclicGraph</tt> classes.
